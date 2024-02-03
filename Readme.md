@@ -2,6 +2,6 @@
 
 
 
-# Vide0
+# Video
 https://github.com/jiangzeshuo/RT-thread-robot/assets/51223123/9462dff9-2bf7-460a-aa3d-42c87f715044
 
